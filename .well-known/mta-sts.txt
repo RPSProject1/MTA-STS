@@ -1,1 +1,4 @@
-
+version: STSv1
+mode: testing
+mx: reptonpri-derbyshire-sch-uk01e.mail.protection.outlook.com
+max_age: 604800
